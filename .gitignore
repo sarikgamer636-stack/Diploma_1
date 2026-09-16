@@ -14,10 +14,6 @@ build/
 
 # Pytest / coverage
 .pytest_cache/
-.coverage
-.coverage.*
-htmlcov/
-coverage.xml
 
 # IDE
 .idea/
